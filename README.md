@@ -1,0 +1,2 @@
+# SettingUpAJetsonNano2GB
+SettingUpAJetsonNano2GB

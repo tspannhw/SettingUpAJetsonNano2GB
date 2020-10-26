@@ -58,3 +58,4 @@ pip3 install keras
 # tegrastats
 pip3 install -U jetson-stats
 pip3 install -U psutil
+sudo apt-get install openjdk-8-jdk -y

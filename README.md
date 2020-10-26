@@ -57,3 +57,4 @@ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/
 pip3 install keras
 # tegrastats
 pip3 install -U jetson-stats
+pip3 install -U psutil
